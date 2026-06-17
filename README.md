@@ -14,4 +14,5 @@ Process:
 Output Validation: 
 
 Evaluating performance beyond simple accuracy using a confusion matrix (True Positives, False Positives, False Negatives, True Negatives) and metrics like the F1 Score.
+
 <img width="792" height="691" alt="image" src="https://github.com/user-attachments/assets/4f479424-2eb5-4c67-9ec6-6c8a93578736" />
